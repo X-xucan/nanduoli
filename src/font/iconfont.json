@@ -1,0 +1,142 @@
+{
+  "id": "1935123",
+  "name": "喃哆哩",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9937249",
+      "name": "下  拉",
+      "font_class": "xiala",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "551741",
+      "name": "关注",
+      "font_class": "guanzhu",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "1741201",
+      "name": "信息",
+      "font_class": "svg-",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "8973198",
+      "name": "分 享",
+      "font_class": "fenxiang",
+      "unicode": "e6be",
+      "unicode_decimal": 59070
+    },
+    {
+      "icon_id": "10096191",
+      "name": "关注",
+      "font_class": "guanzhu-",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "12040714",
+      "name": "心",
+      "font_class": "xin",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "1962258",
+      "name": "右括号",
+      "font_class": "youkuohao",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "2779009",
+      "name": "加号",
+      "font_class": "jiahao",
+      "unicode": "e9c8",
+      "unicode_decimal": 59848
+    },
+    {
+      "icon_id": "2062260",
+      "name": "联系人",
+      "font_class": "lianxiren",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "12866170",
+      "name": "返 回",
+      "font_class": "fanhui",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "3447243",
+      "name": "关注",
+      "font_class": "guanzhu1",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "13950892",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "11795168",
+      "name": "添加",
+      "font_class": "jia1",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "878499",
+      "name": "男",
+      "font_class": "nan",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "3768072",
+      "name": "女",
+      "font_class": "nv",
+      "unicode": "e7a7",
+      "unicode_decimal": 59303
+    },
+    {
+      "icon_id": "13859893",
+      "name": "编 辑",
+      "font_class": "bianji",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "3979385",
+      "name": "相机",
+      "font_class": "xiangji",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "8508072",
+      "name": "消 息",
+      "font_class": "xiaoxi1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "13332108",
+      "name": "我 的",
+      "font_class": "wode",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
